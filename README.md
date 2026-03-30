@@ -74,6 +74,24 @@ vr-assets/  —  GLB files ready for use in Three.js, Babylon.js, or WebXR
 
 ---
 
+## 🎥 Videos
+
+| File | Format | Size | Description |
+|------|--------|------|-------------|
+| Sioux Falls 3D Video | `.mp4` | 35 MB | 3D aerial/immersive video of Sioux Falls |
+
+### Sioux Falls 3D Video
+
+<video src="videos/siouxfalls3dvideo.mp4" controls width="100%">
+  <a href="videos/siouxfalls3dvideo.mp4">Download Sioux Falls 3D Video (35 MB)</a>
+</video>
+
+```
+videos/siouxfalls3dvideo.mp4  —  35 MB  —  Immersive 3D video of Sioux Falls
+```
+
+---
+
 ## Supported Formats
 
 | Format | Use Case |
@@ -82,6 +100,7 @@ vr-assets/  —  GLB files ready for use in Three.js, Babylon.js, or WebXR
 | `.obj` | 3D modeling software (Blender, Maya) |
 | `.fbx` | Game engines (Unity, Unreal) |
 | `.glb` | Web-based and VR/AR viewers (Three.js, WebXR) |
+| `.mp4` | 3D and immersive video playback |
 
 ## Getting Started
 
@@ -96,7 +115,7 @@ These assets are intended for **educational, non-commercial use** by K-12 studen
 ## Contributing
 
 1. Fork this repository.
-2. Add assets to the appropriate folder (`biology/`, `objects/`, or `vr-assets/`).
+2. Add assets to the appropriate folder (`biology/`, `objects/`, `vr-assets/`, or `videos/`).
 3. Submit a pull request with a brief description of the asset.
 
 ## License
